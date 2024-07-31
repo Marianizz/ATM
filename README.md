@@ -9,7 +9,6 @@ Acesta este un proiect simplu de sistem ATM realizat în C#. Proiectul simuleaz�
 - **Verificare Sold:** Utilizatorii pot verifica soldul contului lor.
 - **Retrageri:** Permite utilizatorilor să retragă bani din contul lor, dacă există suficient sold.
 - **Depuneri:** Permite utilizatorilor să depună bani în contul lor.
-- **Istoricul Tranzacțiilor:** (Opțional) Vizualizarea istoricului tranzacțiilor efectuate.
 
 ## Tehnologii Utilizate
 
@@ -17,7 +16,5 @@ Acesta este un proiect simplu de sistem ATM realizat în C#. Proiectul simuleaz�
 - **.NET Framework:** Platforma de dezvoltare pentru execuția aplicației.
 
 ## Instrucțiuni de Utilizare
-
-1. **Clonare Repozitoriu:**
    ```bash
-   git clone https://github.com/utilizator/atm-system-csharp.git
+ 
